@@ -1,4 +1,11 @@
-## Hi there 👋
+## Bem vindo ao perfl :pink_heart 👋
+Meu nome é Hevellyn carvalho
+Sou aluno e estou no Ensino Médio
+Utilizo esse espaço para compartilhamento dos projetos 
+
+### Para entrar em contato : mailbox
+
+00001099208257sp@al.educacao.sp.gov.br
 
 <!--
 **HEVELLYNCAR3S2024/HEVELLYNCAR3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
